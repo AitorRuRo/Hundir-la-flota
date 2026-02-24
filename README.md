@@ -1,4 +1,4 @@
-# Hundir la flota
+# Hundir la flota (actualmente, solo hay versión para PC)
 
 Esta actividad la hice para aprender cómo "arrastrar" elementos con el ratón y entender cómo desarrollar por turnos un juego algo más complejo.
 
