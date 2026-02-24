@@ -1,0 +1,118 @@
+body {
+    background: radial-gradient(circle, #444466 0%, #000000 100%);
+    color: #ffffff;
+}
+
+.displayFlex {
+    display: flex;
+}
+
+.displayNone {
+    display: none;
+}
+
+.alignStart {
+    align-items: start;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.pantalla {
+    justify-content: space-evenly;
+}
+
+.W,
+.WT {
+    background-color: #0000ff;
+    border: 1px solid #000000;
+    font-size: 64px;
+}
+
+.B,
+.BT {
+    border: 1px solid #000000;
+    background-color: #000000;
+    font-size: 64px;
+    color: #aa0000;
+}
+
+p {
+    align-items: center;
+    display: flex;
+    font-size: 32px;
+    justify-content: center;
+    height: 64px;
+    width: 64px;
+    margin: 0;
+}
+
+p:hover {
+    background-color: #8888aa;
+}
+
+.cursor {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    pointer-events: none;
+    z-index: 9999;
+    font-Weight: bold;
+}
+
+.zonaAlmacen,
+.almacen {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.almacen div {
+    background-color: #000000;
+    height: 64px;
+}
+
+.Portaviones {
+    width: 310px;
+}
+
+.Acorazado {
+    width: 256px;
+}
+
+.Destructor {
+    width: 192px;
+}
+
+.Fragata {
+    width: 128px;
+}
+
+.seleccted {
+    background-color: #444444 !important;
+}
+
+.colocado {
+    background-color: #aaaaaa !important;
+}
+
+.zoneButtons {
+    gap: 10px;
+    justify-content: space-evenly;
+}
+
+button {
+    background-color: #ffffff44;
+    border: none;
+    font-size: 24px;
+    color: #ffffff;
+    border-radius: 15px;
+    padding: 5px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #ffffff22;
+}
