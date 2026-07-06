@@ -14,6 +14,8 @@ Aquí gana el primero que hunda todos los barcos. He creado dos clases y cada un
 - 3 casillas (2)
 - 2 casillas (1)
 
+A la hora de la colocación de los barcos, los puedes girar con R.
+
 https://aitorruro.github.io/Hundir-la-flota/
 
 <img width="1912" height="866" alt="imagen" src="https://github.com/user-attachments/assets/b79bd1b8-761d-4b5d-8757-aee60147f754" />
